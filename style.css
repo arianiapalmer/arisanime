@@ -12,6 +12,10 @@ body {
     font-size: medium;
     color: black;
 }
+img {
+    border: none;
+    height: 100px;
+}
 
 p {
     font-size: medium;
