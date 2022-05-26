@@ -1,2 +1,2 @@
-# fav-animals-lol
+# Fav-animals-lol
 Favorite Animals!
