@@ -1,12 +1,16 @@
 header {
-    background-color: blue;
+    background-color: rgb(165, 201, 80);
+    height: 35px;
+
 }
 main{
     background-color: beige;
+    margin: auto;
+    width: 300;
 }
 
 h1 {
-    color: #070B87 ;
+    font-size: 30px;
 }
 
 h2 {
