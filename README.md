@@ -1,2 +1,2 @@
-# Fav-animals-lol
-Favorite Animals!
+# My Favorite anime!
+Favorite anime!
