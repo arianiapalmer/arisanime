@@ -1,0 +1,20 @@
+header {
+    background-color: rgb(134, 213, 213);
+
+}
+h1, nav {
+    text-align: center;
+}
+main {
+    background-color: rgb(182, 149, 213);
+}
+h2, h3 {
+    background-color: aliceblue;
+
+}
+img {
+    margin: auto;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+}
