@@ -1,17 +1,28 @@
-head {
-    font-size: larger;
-    color: black;
+header {
+    background-color: blue;
+}
+main{
+    background-color: beige;
 }
 
 h1 {
-    font-size: large;
     color: #070B87 ;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
 }
 
 body {
     font-size: medium;
     color: black;
 }
+
 img {
     border: none;
     height: 100px;
