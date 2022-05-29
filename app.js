@@ -13,3 +13,5 @@ let favAnime = prompt("whats your favorite anime");
     if (favAnime == "naruto") {
         document.write(", same here!");
     }
+
+    
