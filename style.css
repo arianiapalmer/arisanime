@@ -1,15 +1,15 @@
 header {
-    background-color: rgb(134, 213, 213);
+    background-color: #86d5d5;
 
 }
 h1, nav {
     text-align: center;
 }
 main {
-    background-color: rgb(182, 149, 213);
+    background-color: rgb(219, 198, 239);
 }
 h2, h3 {
-    background-color: aliceblue;
+    background-color: hsl(208, 100%, 97%);
 
 }
 img {
@@ -18,5 +18,3 @@ img {
     height: 400px;
     width: 400px;
 }
-
-
