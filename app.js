@@ -14,4 +14,3 @@ let favAnime = prompt("whats your favorite anime");
         document.write(", same here!");
     }
 
-    
