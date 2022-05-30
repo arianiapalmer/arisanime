@@ -20,6 +20,8 @@ function askName() {
         document.write("Hi " + firstName + "! Thanks for checking out my site! HOPE YOU LIKE IT :)");
     } else if (firstName == "Kahdija") {
     document.write("Love you bestie :)");
+    } else if (firstName == "Sky") {
+        document.write("hey, cool kids watch anime")
     } else {
      console.log(firstName);
     document.write("Wassup " + firstName + ", thanks for checking out my site! ");
