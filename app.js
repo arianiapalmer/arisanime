@@ -27,18 +27,19 @@ function askName() {
 }
 
 function whatAnime() {
-    let whatAnime = prompt("Of Naruto, One Piece, and Bleach, which anime is your favorite?");
-    if (whatAnime == "Naruto"){
+    let urAnime = prompt("Of Naruto, One Piece, and Bleach, which anime is your favorite?");
+    if (urAnime == "Naruto"){
         document.write("Interesting. Are you an imperialist? Lol jk, it is good af.");
     }
-    else if (whatAnime == "One Piece") {
+    else if (urAnime == "One Piece") {
         document.write("Nice! I commend you for watching all of those episdoes");
     }
-    else if (whatAnime == "Bleach") {
+    else if (urAnime == "Bleach") {
         document.write("Personally I don't get the hype, but the soundtrack is fuego");
     }
     else {
-        document.write("Sorry that was not one of the choices! Please try again.")
+        alert("Sorry that was not one of the choices! Please try again.");
+        whatAnime();
     }
 }
 //let favAnime = "";
